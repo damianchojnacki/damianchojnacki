@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate full-stack developer.</h3>
 
-- 👨‍💻 All of my projects are available at [damianchojnacki.github.com/portfolio](damianchojnacki.github.com/portfolio)
+- 👨‍💻 All of my projects are available at [damianchojnacki.github.com/portfolio](damianchojnacki.github.io/portfolio)
 
 <p align="left">
 
