@@ -75,5 +75,5 @@
 	</a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=damianchojnacki&show_icons=true&locale=en&layout=compact&hide=css,html,c,c++" alt="damianchojnacki" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=damianchojnacki&show_icons=true&locale=en&layout=compact&hide=css,html,c,c%2B%2B" alt="damianchojnacki" /></p>
 
